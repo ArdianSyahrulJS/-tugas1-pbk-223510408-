@@ -65,7 +65,7 @@ export default {
       nama: 'Hai, Ardian Syahrul Juliawan Suhendra',
       npm: "Npm : 223510408",
       disukai: 'gamer',
-      bio: 'Saya berasal dari Kampar, Provinsi Riau, dan lahir pada tanggal 16 Desember 2003 di desa Pangkalan Baru. Pendidikan saya dimulai di SDN 002 Pangkalan Baru, kemudian melanjutkan ke SMPN 2 Siak Hulu, dan SMAN 1 Siak Hulu. Sekarang, saya sedang menempuh pendidikan tinggi di Universitas Islam Riau, Pekanbaru, Riau, dalam program studi S1 Teknik Informatika. Saya memiliki hobi bermain bola voli dan belum memiliki pengalaman kerja.',
+      bio: 'Saya berasal dari Kepulauan meranti, Provinsi Riau, dan lahir pada tanggal 12 juli 2004 di Sungai pakning. Pendidikan saya dimulai di SDN 16 selatpanjang, kemudian melanjutkan ke SMPN 2 selatpanjang, dan SMk 1 Selatpanjang. Sekarang, saya sedang menempuh pendidikan tinggi di Universitas Islam Riau, Pekanbaru, Riau, dalam program studi S1 Teknik Informatika.',
     }
   }
 }
